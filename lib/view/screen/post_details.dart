@@ -13,14 +13,6 @@ class Post extends StatelessWidget {
 
     return Scaffold(
       backgroundColor: Color(0xffEEF4FF),
-      // appBar: AppBar(
-      //   leading: IconButton(
-      //     icon: Icon(Icons.arrow_back_ios_sharp, color: Colors.black),
-      //     onPressed: () => Navigator.of(context).pop(),
-      //   ),
-      //   backgroundColor: Colors.transparent,
-      //   elevation: 0,
-      // ),
       body: SingleChildScrollView(
         child: Container(
           child: Column(

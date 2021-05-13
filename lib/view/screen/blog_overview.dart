@@ -32,8 +32,8 @@ class _BlogOverviewState extends State<BlogOverview> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                'What you interested today?',
-                style: TextStyle(fontSize: 40),
+                'What are you interested today?',
+                style: TextStyle(fontSize: 32),
               ),
               SizedBox(
                 height: 8,
